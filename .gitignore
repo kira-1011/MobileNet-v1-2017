@@ -37,12 +37,6 @@ ENV/
 # Jupyter Notebook
 .ipynb_checkpoints
 
-# Model files
-*.h5
-*.keras
-*.pkl
-*.pt
-*.pth
 
 # Logs
 *.log
